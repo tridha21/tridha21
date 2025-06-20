@@ -1,16 +1,21 @@
-## Hi there 👋
+\# 👋 Hi, I'm Tridha Chand!
 
-<!--
-**tridha21/tridha21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently pursuing my Master's in Computer Applications (MCA) with a strong interest in backend development and cybersecurity and learning new technologies.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Languages: Java, Python, HTML, CSS
+- Tools: Git, VS Code, MySQL
+- Frameworks: Bootstrap, Spring Boot (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Projects
+- **HMI Dashboard** – Dummy HMI screen using Chart.js and Bootstrap.
+
+## 🏆 Achievements
+- Completed 3-month web development internship
+- Built multiple mini projects in Java and HTML/CSS
+
+## 🎯 Interests
+- Cybersecurity, Web Development, Learning new tech
+- Drawing, Watching thrillers
+
+📫 **How to reach me**: tridhac210@gmail.com | www.linkedin.com/in/tridha-chand-074420233
