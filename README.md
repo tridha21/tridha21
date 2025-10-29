@@ -15,7 +15,7 @@ I'm currently pursuing my Master's in Computer Applications (MCA) with a strong 
 - Built multiple mini projects in Java and HTML/CSS
 
 ## 🎯 Interests
-- Cybersecurity, Web Development, Learning new tech
+- Web Development, Learning new tech
 - Drawing, Watching thrillers
 
 📫 **How to reach me**: tridhac210@gmail.com | www.linkedin.com/in/tridha-chand-074420233
